@@ -1,12 +1,36 @@
 {
+  "members": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "name": "Cleber",
+      "email": "cleber@gmail.com",
+      "birth": 660355200000,
+      "gender": "M",
+      "blood": "AB+",
+      "weight": "100",
+      "height": "188"
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "name": "Maria",
+      "email": "maria@hotmail.com",
+      "birth": 835833600000,
+      "gender": "F",
+      "blood": "O-",
+      "weight": "60",
+      "height": "163"
+    }
+  ],
   "instructors": [
     {
       "id": 5,
       "avatar_url": "https://images.unsplash.com/photo-1534367507873-d2d7e24c797f?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
       "name": "Milena",
-      "birth": 470707200000,
+      "birth": 951436800000,
       "gender": "F",
-      "services": "Musculação, Crossfit",
+      "services": "Musculação, Crossfit, Judô",
       "created_at": 1600802190115
     },
     {
@@ -17,6 +41,15 @@
       "gender": "M",
       "services": "Musculação, Crossfit",
       "created_at": 1600802259038
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1577221084712-45b0445d2b00?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=343&q=80",
+      "name": "Tony",
+      "birth": 863395200000,
+      "gender": "M",
+      "services": "Musculação, Crossfit",
+      "created_at": 1600959112839
     }
   ]
 }
